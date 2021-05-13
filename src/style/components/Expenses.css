@@ -1,0 +1,17 @@
+.expenses {
+    width: 95%;
+    padding: 2%;
+    margin: 0 auto;
+    min-width: 700px;
+    background: #2a2a2a;
+    border-radius: 12px;
+}
+
+.no-expenses {
+    text-align: center;
+    width: 100%;
+    font-size: 24px;
+    font-weight: bolder;
+    color: white;
+    margin: 20px 0;
+}
